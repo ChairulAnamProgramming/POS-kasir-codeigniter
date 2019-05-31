@@ -4,7 +4,7 @@ AplikAsi POS Kasir berbasis web dengan menggunakan Framwork Codeigniter
 --Admin
 	-Dashboard
 	-List karyawan
---Menu Kasir
+--MenuKasir
 --User
 	-my profile
 	-Edite Profile
