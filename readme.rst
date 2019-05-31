@@ -1,10 +1,14 @@
 #######################################################################
 AplikAsi POS Kasir berbasis web dengan menggunakan Framwork Codeigniter
 #######################################################################
+--Support
+	-Thermal print
+	-Barcode
 --Admin
 	-Dashboard
 	-List karyawan
 --MenuKasir
+	-Input Penjualan
 --User
 	-my profile
 	-Edite Profile
